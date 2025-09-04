@@ -78,8 +78,6 @@ Restarts from the Genesis block.
 
 🖥️ Installation & Usage
 1. Clone the Repository
-git clone https://github.com/your-username/blockchain-voting.git
-cd blockchain-voting
 
 2. Install Dependencies
 
